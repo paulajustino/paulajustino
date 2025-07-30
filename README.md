@@ -1,6 +1,6 @@
 # Hi there, I'm Paula! 👋🏾👩🏾‍💻
 
-💼 Android Developer Jr at [Venturus](https://www.venturus.org.br/).<br>
+💼 Android Developer Jr at Globo.<br>
 🎓 Bachelor's Degree in Computer Science from [UNICAMP](https://www.unicamp.br/).
 
 ## 📫 How to reach me:
